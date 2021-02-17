@@ -1,0 +1,29 @@
+
+.dc_mm-orange{
+	
+	background:#232F64;
+	position:relative;
+	width:100%;
+}
+
+.dc_mm-orange  li{
+	float:left;
+}
+
+.dc_mm-orange li a{
+	color:#fff;
+	display:block;
+	float:left;
+	font-size:15px;
+	padding:20px 32px;
+	text-decoration:none;
+	text-shadow:1px 1px 1px #000;
+	text-transform:uppercase;
+	font-family:'Doppio One', sans-serif;
+	border-left:2px groove #636363;
+}
+.dc_mm-orange li a:hover{
+	
+	background:#8F294B;
+}
+
